@@ -1,0 +1,11 @@
+[30-Jul-2020 06:11:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/vnyogrhn/public_html/wp-includes/update.php:813
+Stack trace:
+#0 {main}
+  thrown in /home/vnyogrhn/public_html/wp-includes/update.php on line 813
+[31-Jul-2020 10:28:34 America/New_York] PHP Fatal error:  Class 'IXR_Server' not found in /home/vnyogrhn/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[01-Aug-2020 07:47:29 America/New_York] PHP Fatal error:  Class 'IXR_Server' not found in /home/vnyogrhn/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[01-Aug-2020 07:47:34 America/New_York] PHP Fatal error:  Class 'IXR_Server' not found in /home/vnyogrhn/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[01-Aug-2020 10:09:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/vnyogrhn/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vnyogrhn/public_html/wp-includes/feed-atom-comments.php on line 8

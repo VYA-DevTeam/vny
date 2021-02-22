@@ -1,0 +1,40 @@
+[21-Mar-2020 21:43:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/vnyogrhn/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vnyogrhn/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[01-Jul-2020 02:05:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/vnyogrhn/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vnyogrhn/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[06-Jul-2020 17:29:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/vnyogrhn/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vnyogrhn/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[15-Jul-2020 18:02:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/vnyogrhn/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vnyogrhn/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[16-Jul-2020 12:06:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/vnyogrhn/public_html/wp-content/themes/twentynineteen/archive.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vnyogrhn/public_html/wp-content/themes/twentynineteen/archive.php on line 12
+[23-Jul-2020 03:57:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/vnyogrhn/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vnyogrhn/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[11-Aug-2020 08:43:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/vnyogrhn/public_html/wp-content/themes/twentynineteen/search.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vnyogrhn/public_html/wp-content/themes/twentynineteen/search.php on line 12
+[11-Aug-2020 08:43:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/vnyogrhn/public_html/wp-content/themes/twentynineteen/archive.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vnyogrhn/public_html/wp-content/themes/twentynineteen/archive.php on line 12
+[16-Nov-2020 07:39:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/vnyogrhn/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vnyogrhn/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[19-Dec-2020 14:51:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/vnyogrhn/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vnyogrhn/public_html/wp-content/themes/twentynineteen/404.php on line 12

@@ -1,0 +1,18 @@
+= 1.0.5 =
+- Added: Codes for Freemius switch.
+
+= 1.0.4 =
+- Added: Russian language, thanks to Ivan Isakau.
+
+= 1.0.3 =
+- Fixed: Generated shortcode didn't show up.
+
+= 1.0.2 =
+- Added: Polish translation, thanks to Fin Fafarafiel.
+- Tweak: Better approch for calling the metabox scripts.
+
+= 1.0.1 =
+- Fixed: followers and following issue.
+
+= 1.0.0 =
+- Initial release.

@@ -1,0 +1,38 @@
+[28-Nov-2020 17:41:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update_meta() on boolean in /home/vnyogrhn/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php:259
+Stack trace:
+#0 /home/vnyogrhn/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php(180): ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->save_conditions(NULL, Array)
+#1 [internal function]: ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->ajax_save_theme_template_conditions(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 /home/vnyogrhn/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#3 /home/vnyogrhn/public_html/wp-includes/class-wp-hook.php(287): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#4 /home/vnyogrhn/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#5 /home/vnyogrhn in /home/vnyogrhn/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 259
+[28-Dec-2020 16:26:23 UTC] PHP Warning:  unlink(): http does not allow unlinking in /home/vnyogrhn/public_html/wp-content/plugins/ocean-extra/includes/panel/classes/importers/class-settings-importer.php on line 28
+[28-Dec-2020 16:38:09 UTC] PHP Warning:  unlink(): http does not allow unlinking in /home/vnyogrhn/public_html/wp-content/plugins/ocean-extra/includes/panel/classes/importers/class-settings-importer.php on line 28
+[30-Dec-2020 14:08:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update_meta() on boolean in /home/vnyogrhn/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php:259
+Stack trace:
+#0 /home/vnyogrhn/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php(180): ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->save_conditions(NULL, Array)
+#1 [internal function]: ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->ajax_save_theme_template_conditions(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 /home/vnyogrhn/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#3 /home/vnyogrhn/public_html/wp-includes/class-wp-hook.php(287): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#4 /home/vnyogrhn/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#5 /home/vnyogrhn in /home/vnyogrhn/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 259
+[30-Dec-2020 16:24:38 UTC] PHP Warning:  Creating default object from empty value in /home/vnyogrhn/public_html/wp-includes/post.php on line 4145
+[30-Dec-2020 16:24:38 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Elementor\TemplateLibrary\Source_Local::on_save_post() must be an instance of WP_Post, instance of stdClass given, called in /home/vnyogrhn/public_html/wp-includes/class-wp-hook.php on line 289 and defined in /home/vnyogrhn/public_html/wp-content/plugins/elementor/includes/template-library/sources/local.php:1044
+Stack trace:
+#0 /home/vnyogrhn/public_html/wp-includes/class-wp-hook.php(289): Elementor\TemplateLibrary\Source_Local->on_save_post(2836, Object(stdClass))
+#1 /home/vnyogrhn/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /home/vnyogrhn/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/vnyogrhn/public_html/wp-includes/post.php(4260): do_action('save_post', 2836, Object(stdClass), true)
+#4 /home/vnyogrhn/public_html/wp-includes/post.php(4354): wp_insert_post(Array, false)
+#5 /home/vnyogrhn/public_html/wp-admin/includes/post.php(1867): wp_update_post(Array)
+#6 /home/vnyogrhn/public_html/wp-content/p in /home/vnyogrhn/public_html/wp-content/plugins/elementor/includes/template-library/sources/local.php on line 1044
+[08-Jan-2021 03:10:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update_meta() on null in /home/vnyogrhn/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php:259
+Stack trace:
+#0 /home/vnyogrhn/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php(180): ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->save_conditions(1966, Array)
+#1 [internal function]: ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->ajax_save_theme_template_conditions(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 /home/vnyogrhn/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#3 /home/vnyogrhn/public_html/wp-includes/class-wp-hook.php(287): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#4 /home/vnyogrhn/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#5 /home/vnyogrhn/pu in /home/vnyogrhn/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 259
+[21-Feb-2021 17:29:10 UTC] Performing upgrade from  to 4.0.2
+[21-Feb-2021 17:29:10 UTC] setting sglobal

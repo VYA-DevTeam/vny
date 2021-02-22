@@ -1,0 +1,12 @@
+[07-Jul-2020 15:30:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/vnyogrhn/public_html/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vnyogrhn/public_html/wp-content/themes/twentytwenty/404.php on line 10
+[25-Aug-2020 07:12:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/vnyogrhn/public_html/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vnyogrhn/public_html/wp-content/themes/twentytwenty/404.php on line 10
+[19-Dec-2020 14:51:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/vnyogrhn/public_html/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vnyogrhn/public_html/wp-content/themes/twentytwenty/404.php on line 10

@@ -1,0 +1,1452 @@
+{
+    "created": "2021-02-21 17:35:36",
+    "version_dup": "4.0.2",
+    "version_wp": "5.5.3",
+    "version_db": "10.3.27",
+    "version_php": "7.2.34",
+    "version_os": "Linux",
+    "dbInfo": {
+        "buildMode": "PHPCHUNKING",
+        "charSetList": [
+            "utf8mb4",
+            "utf8"
+        ],
+        "collationList": [
+            "utf8_general_ci",
+            "utf8mb4_unicode_520_ci",
+            "utf8mb4_unicode_ci"
+        ],
+        "isTablesUpperCase": 0,
+        "isNameUpperCase": 0,
+        "name": "vnyogrhn_wp420",
+        "tablesBaseCount": 54,
+        "tablesFinalCount": 54,
+        "muFilteredTableCount": 0,
+        "tablesRowCount": 17253,
+        "tablesSizeOnDisk": 43655234,
+        "tablesList": {
+            "wpgn_actionscheduler_actions": {
+                "inaccurateRows": 45,
+                "insertedRows": 45,
+                "size": 48612
+            },
+            "wpgn_actionscheduler_claims": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 3100
+            },
+            "wpgn_actionscheduler_groups": {
+                "inaccurateRows": 3,
+                "insertedRows": 3,
+                "size": 9304
+            },
+            "wpgn_actionscheduler_logs": {
+                "inaccurateRows": 132,
+                "insertedRows": 132,
+                "size": 35052
+            },
+            "wpgn_asq_answers": {
+                "inaccurateRows": 452,
+                "insertedRows": 452,
+                "size": 71204
+            },
+            "wpgn_asq_questions": {
+                "inaccurateRows": 134,
+                "insertedRows": 134,
+                "size": 26832
+            },
+            "wpgn_asq_quizzes": {
+                "inaccurateRows": 19,
+                "insertedRows": 19,
+                "size": 13272
+            },
+            "wpgn_asq_result_templates": {
+                "inaccurateRows": 71,
+                "insertedRows": 71,
+                "size": 20496
+            },
+            "wpgn_commentmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 14068
+            },
+            "wpgn_comments": {
+                "inaccurateRows": 114,
+                "insertedRows": 114,
+                "size": 67724
+            },
+            "wpgn_duplicator_pro_entities": {
+                "inaccurateRows": 5,
+                "insertedRows": 5,
+                "size": 9844
+            },
+            "wpgn_duplicator_pro_packages": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 1024
+            },
+            "wpgn_links": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wpgn_options": {
+                "inaccurateRows": 2270,
+                "insertedRows": 2270,
+                "size": 3284880
+            },
+            "wpgn_pm_activities": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 65536
+            },
+            "wpgn_pm_assignees": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 65536
+            },
+            "wpgn_pm_boardables": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpgn_pm_boards": {
+                "inaccurateRows": 1,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wpgn_pm_capabilities": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wpgn_pm_categories": {
+                "inaccurateRows": 6,
+                "insertedRows": 6,
+                "size": 16384
+            },
+            "wpgn_pm_category_project": {
+                "inaccurateRows": 1,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpgn_pm_comments": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpgn_pm_files": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpgn_pm_imports": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wpgn_pm_meta": {
+                "inaccurateRows": 1,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpgn_pm_projects": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wpgn_pm_role_project": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 2126
+            },
+            "wpgn_pm_role_project_capabilities": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 2498
+            },
+            "wpgn_pm_role_project_users": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 2093
+            },
+            "wpgn_pm_role_user": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "wpgn_pm_roles": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 16384
+            },
+            "wpgn_pm_settings": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 32768
+            },
+            "wpgn_pm_tasks": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wpgn_popularpostsdata": {
+                "inaccurateRows": 77,
+                "insertedRows": 102,
+                "size": 16384
+            },
+            "wpgn_popularpostssummary": {
+                "inaccurateRows": 793,
+                "insertedRows": 32590,
+                "size": 163840
+            },
+            "wpgn_postmeta": {
+                "inaccurateRows": 7373,
+                "insertedRows": 7373,
+                "size": 8206088
+            },
+            "wpgn_posts": {
+                "inaccurateRows": 2231,
+                "insertedRows": 2231,
+                "size": 30362560
+            },
+            "wpgn_term_relationships": {
+                "inaccurateRows": 828,
+                "insertedRows": 828,
+                "size": 61756
+            },
+            "wpgn_term_taxonomy": {
+                "inaccurateRows": 249,
+                "insertedRows": 249,
+                "size": 24728
+            },
+            "wpgn_termmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 4096
+            },
+            "wpgn_terms": {
+                "inaccurateRows": 249,
+                "insertedRows": 249,
+                "size": 44608
+            },
+            "wpgn_usermeta": {
+                "inaccurateRows": 105,
+                "insertedRows": 105,
+                "size": 33776
+            },
+            "wpgn_users": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 8688
+            },
+            "wpgn_wp_floating_menu_custom_templates": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wpgn_wp_floating_menu_details": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 2072
+            },
+            "wpgn_wp_quiz_play_data": {
+                "inaccurateRows": 4,
+                "insertedRows": 4,
+                "size": 35188
+            },
+            "wpgn_wpforms_tasks_meta": {
+                "inaccurateRows": 149,
+                "insertedRows": 149,
+                "size": 14092
+            },
+            "wpgn_wpmailsmtp_tasks_meta": {
+                "inaccurateRows": 76,
+                "insertedRows": 76,
+                "size": 9264
+            },
+            "wpgn_yoast_indexable": {
+                "inaccurateRows": 623,
+                "insertedRows": 623,
+                "size": 304012
+            },
+            "wpgn_yoast_indexable_hierarchy": {
+                "inaccurateRows": 32,
+                "insertedRows": 32,
+                "size": 5792
+            },
+            "wpgn_yoast_migrations": {
+                "inaccurateRows": 17,
+                "insertedRows": 17,
+                "size": 9624
+            },
+            "wpgn_yoast_primary_term": {
+                "inaccurateRows": 22,
+                "insertedRows": 22,
+                "size": 5064
+            },
+            "wpgn_yoast_seo_links": {
+                "inaccurateRows": 587,
+                "insertedRows": 587,
+                "size": 83712
+            },
+            "wpgn_yoast_seo_meta": {
+                "inaccurateRows": 577,
+                "insertedRows": 577,
+                "size": 22097
+            }
+        },
+        "varLowerCaseTables": "0",
+        "dbEngine": "MariaDB",
+        "version": "10.3.27",
+        "versionComment": "MariaDB Server",
+        "viewCount": 0,
+        "procCount": 0,
+        "triggerList": []
+    },
+    "opts_delete": "[\"duplicator_pro_ui_view_state\",\"duplicator_pro_package_active\",\"duplicator_pro_settings\"]",
+    "blogname": "Vietnam Youth Alliance",
+    "wproot": "\/home\/vnyogrhn\/public_html",
+    "wplogin_url": "https:\/\/vnyouthally.org\/admin-login\/",
+    "relative_content_dir": "wp-content",
+    "relative_plugins_dir": "wp-content\/plugins",
+    "relative_theme_dirs": [
+        "wp-content\/themes"
+    ],
+    "exportOnlyDB": 0,
+    "secure_on": false,
+    "secure_pass": "",
+    "skipscan": 0,
+    "dbhost": null,
+    "dbname": null,
+    "dbuser": null,
+    "dbpass": null,
+    "cache_wp": null,
+    "cache_path": null,
+    "cpnl_dbname": null,
+    "cpnl_host": null,
+    "cpnl_user": null,
+    "cpnl_pass": null,
+    "cpnl_enable": null,
+    "cpnl_connect": null,
+    "cpnl_dbaction": null,
+    "cpnl_dbhost": null,
+    "cpnl_dbuser": null,
+    "wp_tableprefix": "wpgn_",
+    "mu_mode": 0,
+    "mu_generation": 0,
+    "subsites": [],
+    "main_site_id": 1,
+    "mu_is_filtered": false,
+    "license_limit": -1,
+    "brand": {
+        "logo": "<i class=\"fa fa-bolt fa-sm\"><\/i> Duplicator Pro",
+        "enabled": false,
+        "style": []
+    },
+    "wp_content_dir_base_name": "",
+    "packInfo": {
+        "packageId": 1,
+        "packageName": "20210221_vietnamyouthalliance",
+        "packageHash": "5437333-21173536",
+        "secondaryHash": "20df8e0-21173536"
+    },
+    "fileInfo": {
+        "dirCount": 3414,
+        "fileCount": 20250,
+        "size": 494754276
+    },
+    "wpInfo": {
+        "version": "5.5.3",
+        "is_multisite": false,
+        "network_id": 1,
+        "targetRoot": "\/home\/vnyogrhn\/public_html",
+        "targetPaths": [
+            "\/home\/vnyogrhn\/public_html"
+        ],
+        "adminUsers": [
+            {
+                "id": "1",
+                "user_login": "admin"
+            }
+        ],
+        "configs": {
+            "defines": {
+                "ABSPATH": {
+                    "value": "\/home\/vnyogrhn\/public_html\/",
+                    "inWpConfig": true
+                },
+                "DB_CHARSET": {
+                    "value": "utf8mb4",
+                    "inWpConfig": true
+                },
+                "DB_COLLATE": {
+                    "value": "",
+                    "inWpConfig": true
+                },
+                "AUTH_KEY": {
+                    "value": "q5i6qppden9kqelfsqp5puinzbeelz65pwumdpvhzi0vnjtwmmdawsce0mplddvr",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_KEY": {
+                    "value": "1ogco2uyabkpedbfhhd6y7eymnycke1lburiyasn5qcnwjjnuukf1ngzsym2zilh",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_KEY": {
+                    "value": "ikacgxxkdi8nyapkl5akc7sdpyhc5rwwggjdjeygbp1teaicj9gdzcqlssaf2vac",
+                    "inWpConfig": true
+                },
+                "NONCE_KEY": {
+                    "value": "tkjdbg6ndpqeb9wzoegqelmojrac9fn1bqfxavvya2thbdwkyqlzntyk37lf4nob",
+                    "inWpConfig": true
+                },
+                "AUTH_SALT": {
+                    "value": "plpiddlunhuln4weqkpgdff7ry3elmc3rs2gtgpx0qwyojy6phuk2anp7f6s6vq7",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_SALT": {
+                    "value": "xfevn0wnfafxxezhsfass5cyxj9ev0ymfwfuxy6qcisrp9gevuwkk0g0dkqbu56q",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_SALT": {
+                    "value": "65bvuffcmfgvodlmgkjrkyigexumbrxqkzipais8ap7j8bv4epoi2p466fs6dkyl",
+                    "inWpConfig": true
+                },
+                "NONCE_SALT": {
+                    "value": "bq8ku7sxzr07wlxkyz1hzazpwgepspjtkdhwmmw1xjlwghqqmup4vtlwiq0kts48",
+                    "inWpConfig": true
+                },
+                "WP_CONTENT_DIR": {
+                    "value": "\/home\/vnyogrhn\/public_html\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_CONTENT_URL": {
+                    "value": "https:\/\/vnyouthally.org\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_DIR": {
+                    "value": "\/home\/vnyogrhn\/public_html\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_URL": {
+                    "value": "https:\/\/vnyouthally.org\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "PLUGINDIR": {
+                    "value": "wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "AUTOSAVE_INTERVAL": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "WP_POST_REVISIONS": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "COOKIE_DOMAIN": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "MULTISITE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG": {
+                    "value": false,
+                    "inWpConfig": true
+                },
+                "SCRIPT_DEBUG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_LOG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_DISPLAY": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WP_MEMORY_LIMIT": {
+                    "value": "40M",
+                    "inWpConfig": false
+                },
+                "WP_MAX_MEMORY_LIMIT": {
+                    "value": "1G",
+                    "inWpConfig": false
+                },
+                "WP_CACHE": {
+                    "value": true,
+                    "inWpConfig": true
+                },
+                "WP_LANG_DIR": {
+                    "value": "\/home\/vnyogrhn\/public_html\/wp-content\/languages",
+                    "inWpConfig": false
+                },
+                "FS_CHMOD_FILE": {
+                    "value": 420,
+                    "inWpConfig": false
+                },
+                "WP_CRON_LOCK_TIMEOUT": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "COOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "SITECOOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "ADMIN_COOKIE_PATH": {
+                    "value": "\/wp-admin",
+                    "inWpConfig": false
+                },
+                "PLUGINS_COOKIE_PATH": {
+                    "value": "\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "TEMPLATEPATH": {
+                    "value": "\/home\/vnyogrhn\/public_html\/wp-content\/themes\/hello-elementor",
+                    "inWpConfig": false
+                },
+                "STYLESHEETPATH": {
+                    "value": "\/home\/vnyogrhn\/public_html\/wp-content\/themes\/hello-elementor",
+                    "inWpConfig": false
+                },
+                "EMPTY_TRASH_DAYS": {
+                    "value": 30,
+                    "inWpConfig": false
+                },
+                "FORCE_SSL_ADMIN": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_DIR": {
+                    "value": "\/home\/vnyogrhn\/public_html\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_URL": {
+                    "value": "https:\/\/vnyouthally.org\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "MUPLUGINDIR": {
+                    "value": "wp-content\/mu-plugins",
+                    "inWpConfig": false
+                }
+            },
+            "realValues": {
+                "siteUrl": "https:\/\/vnyouthally.org",
+                "homeUrl": "https:\/\/vnyouthally.org",
+                "contentUrl": "https:\/\/vnyouthally.org\/wp-content",
+                "uploadBaseUrl": "https:\/\/vnyouthally.org\/wp-content\/uploads",
+                "pluginsUrl": "https:\/\/vnyouthally.org\/wp-content\/plugins",
+                "mupluginsUrl": "https:\/\/vnyouthally.org\/wp-content\/mu-plugins",
+                "themesUrl": "https:\/\/vnyouthally.org\/wp-content\/themes",
+                "originalPaths": {
+                    "home": "\/home\/vnyogrhn\/public_html",
+                    "abs": "\/home\/vnyogrhn\/public_html",
+                    "wpconfig": "\/home\/vnyogrhn\/public_html",
+                    "wpcontent": "\/home\/vnyogrhn\/public_html\/wp-content",
+                    "uploads": "\/home\/vnyogrhn\/public_html\/wp-content\/uploads",
+                    "plugins": "\/home\/vnyogrhn\/public_html\/wp-content\/plugins",
+                    "muplugins": "\/home\/vnyogrhn\/public_html\/wp-content\/mu-plugins",
+                    "themes": "\/home\/vnyogrhn\/public_html\/wp-content\/themes"
+                },
+                "archivePaths": {
+                    "home": "\/home\/vnyogrhn\/public_html",
+                    "abs": "\/home\/vnyogrhn\/public_html",
+                    "wpconfig": "\/home\/vnyogrhn\/public_html",
+                    "wpcontent": "\/home\/vnyogrhn\/public_html\/wp-content",
+                    "uploads": "\/home\/vnyogrhn\/public_html\/wp-content\/uploads",
+                    "plugins": "\/home\/vnyogrhn\/public_html\/wp-content\/plugins",
+                    "muplugins": "\/home\/vnyogrhn\/public_html\/wp-content\/mu-plugins",
+                    "themes": "\/home\/vnyogrhn\/public_html\/wp-content\/themes"
+                }
+            }
+        },
+        "plugins": {
+            "anywhere-elementor\/anywhere-elementor.php": {
+                "slug": "anywhere-elementor\/anywhere-elementor.php",
+                "name": "Anywhere Elementor",
+                "version": "1.2.2",
+                "pluginURI": "https:\/\/www.elementoraddons.com\/",
+                "author": "WPVibes",
+                "authorURI": "https:\/\/wpvibes.com\/",
+                "description": "Allows you to insert elementor pages and library templates anywhere using shortcodes.",
+                "title": "Anywhere Elementor",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "ari-stream-quiz\/ari-stream-quiz.php": {
+                "slug": "ari-stream-quiz\/ari-stream-quiz.php",
+                "name": "ARI Stream Quiz",
+                "version": "1.2.21",
+                "pluginURI": "http:\/\/wp-quiz.ari-soft.com",
+                "author": "ARI Soft",
+                "authorURI": "http:\/\/www.ari-soft.com",
+                "description": "Powerful and easy to use quiz plugin for WordPress.",
+                "title": "ARI Stream Quiz",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "change-wp-admin-login\/change-wp-admin-login.php": {
+                "slug": "change-wp-admin-login\/change-wp-admin-login.php",
+                "name": "Change wp-admin login",
+                "version": "1.0.0",
+                "pluginURI": "https:\/\/wordpress.org\/plugins\/change-wp-admin-login\/",
+                "author": "Nuno Morais Sarmento",
+                "authorURI": "https:\/\/www.nuno-sarmento.com",
+                "description": "Change wp-admin login to whatever you want. example: http:\/\/www.example.com\/my-login. Go under Settings and then click on \"Permalinks\" and change your URL under \"Change wp-admin login\".",
+                "title": "Change wp-admin login",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "classic-editor\/classic-editor.php": {
+                "slug": "classic-editor\/classic-editor.php",
+                "name": "Classic Editor",
+                "version": "1.6",
+                "pluginURI": "https:\/\/wordpress.org\/plugins\/classic-editor\/",
+                "author": "WordPress Contributors",
+                "authorURI": "https:\/\/github.com\/WordPress\/classic-editor\/",
+                "description": "Enables the WordPress classic editor and the old-style Edit Post screen with TinyMCE, Meta Boxes, etc. Supports the older plugins that extend this screen.",
+                "title": "Classic Editor",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "duplicator-pro\/duplicator-pro.php": {
+                "slug": "duplicator-pro\/duplicator-pro.php",
+                "name": "Duplicator Pro",
+                "version": "4.0.2",
+                "pluginURI": "http:\/\/snapcreek.com\/",
+                "author": "Snap Creek",
+                "authorURI": "http:\/\/snapcreek.com",
+                "description": "Create, schedule and transfer a copy of your WordPress files and database. Duplicate and move a site from one location to another quickly.",
+                "title": "Duplicator Pro",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "easy-table-of-contents\/easy-table-of-contents.php": {
+                "slug": "easy-table-of-contents\/easy-table-of-contents.php",
+                "name": "Easy Table of Contents",
+                "version": "2.0.11",
+                "pluginURI": "http:\/\/connections-pro.com\/",
+                "author": "Steven A. Zahm",
+                "authorURI": "http:\/\/connections-pro.com\/",
+                "description": "Adds a user friendly and fully automatic way to create and display a table of contents generated from the page content.",
+                "title": "Easy Table of Contents",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "elementor\/elementor.php": {
+                "slug": "elementor\/elementor.php",
+                "name": "Elementor",
+                "version": "2.9.6",
+                "pluginURI": "https:\/\/elementor.com\/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash",
+                "author": "Elementor.com",
+                "authorURI": "https:\/\/elementor.com\/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash",
+                "description": "The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.",
+                "title": "Elementor",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "elementor-pro\/elementor-pro.php": {
+                "slug": "elementor-pro\/elementor-pro.php",
+                "name": "Elementor Pro",
+                "version": "2.9.1",
+                "pluginURI": "https:\/\/elementor.com\/",
+                "author": "Elementor.com",
+                "authorURI": "https:\/\/elementor.com\/",
+                "description": "Elementor Pro brings a whole new design experience to WordPress. Customize your entire theme: header, footer, single post, archive and 404 page, all with one page builder.",
+                "title": "Elementor Pro",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "envato-elements\/envato-elements.php": {
+                "slug": "envato-elements\/envato-elements.php",
+                "name": "Envato Elements",
+                "version": "2.0.7",
+                "pluginURI": "",
+                "author": "Envato",
+                "authorURI": "https:\/\/elements.envato.com\/extensions\/wordpress\/?utm_source=extensions&utm_medium=referral&utm_campaign=elements_extensions_wpplugins",
+                "description": "Access beautifully designed Template Kits + Photos from Envato Elements.",
+                "title": "Envato Elements",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "essential-addons-for-elementor-lite\/essential_adons_elementor.php": {
+                "slug": "essential-addons-for-elementor-lite\/essential_adons_elementor.php",
+                "name": "Essential Addons for Elementor",
+                "version": "4.3.7",
+                "pluginURI": "https:\/\/essential-addons.com\/elementor\/",
+                "author": "WPDeveloper",
+                "authorURI": "https:\/\/wpdeveloper.net\/",
+                "description": "The Essential plugin you install after Elementor! Packed with 40+ stunning free elements including Advanced Data Table, Event Calendar, Filterable Gallery, WooCommerce, and many more.",
+                "title": "Essential Addons for Elementor",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "essential-addons-elementor\/essential_adons_elementor.php": {
+                "slug": "essential-addons-elementor\/essential_adons_elementor.php",
+                "name": "Essential Addons for Elementor - Pro",
+                "version": "4.2.3",
+                "pluginURI": "https:\/\/essential-addons.com\/elementor\/",
+                "author": "WPDeveloper",
+                "authorURI": "http:\/\/www.wpdeveloper.net",
+                "description": "Supercharge your Elementor page building experience with Essential Addons PRO. Get your hands on exclusive elements such as Instagram Feed, Protected Content, Smart Post List, and many more.",
+                "title": "Essential Addons for Elementor - Pro",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "maintenance\/maintenance.php": {
+                "slug": "maintenance\/maintenance.php",
+                "name": "Maintenance",
+                "version": "3.96",
+                "pluginURI": "http:\/\/wordpress.org\/plugins\/maintenance\/",
+                "author": "WP Maintenance",
+                "authorURI": "https:\/\/wpmaintenancemode.com\/",
+                "description": "Put your site in maintenance mode, away from the public view. Use maintenance plugin if your website is in development or you need to change a few things, run an upgrade. Make it only accessible to logged in users.",
+                "title": "Maintenance",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "mesmerize-companion\/mesmerize-companion.php": {
+                "slug": "mesmerize-companion\/mesmerize-companion.php",
+                "name": "Mesmerize Companion",
+                "version": "1.6.112",
+                "pluginURI": "",
+                "author": "Horea Radu",
+                "authorURI": "",
+                "description": "The Mesmerize Companion plugin adds drag and drop page builder functionality to the Mesmerize theme.",
+                "title": "Mesmerize Companion",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "ocean-cookie-notice\/ocean-cookie-notice.php": {
+                "slug": "ocean-cookie-notice\/ocean-cookie-notice.php",
+                "name": "Ocean Cookie Notice",
+                "version": "1.0.5",
+                "pluginURI": "https:\/\/oceanwp.org\/extension\/ocean-cookie-notice\/",
+                "author": "OceanWP",
+                "authorURI": "https:\/\/oceanwp.org\/",
+                "description": "Add a Cookie notice on your website to inform users that you are using cookies to comply with the EU cookie law GDPR regulations.",
+                "title": "Ocean Cookie Notice",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "ocean-elementor-widgets\/ocean-elementor-widgets.php": {
+                "slug": "ocean-elementor-widgets\/ocean-elementor-widgets.php",
+                "name": "Ocean Elementor Widgets",
+                "version": "1.2.3",
+                "pluginURI": "https:\/\/oceanwp.org\/extension\/ocean-elementor-widgets\/",
+                "author": "OceanWP",
+                "authorURI": "https:\/\/oceanwp.org\/",
+                "description": "Add many new powerful and entirely customizable widgets to the popular free page builder - Elementor.",
+                "title": "Ocean Elementor Widgets",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "ocean-extra\/ocean-extra.php": {
+                "slug": "ocean-extra\/ocean-extra.php",
+                "name": "Ocean Extra",
+                "version": "1.6.8",
+                "pluginURI": "https:\/\/oceanwp.org\/extension\/ocean-extra\/",
+                "author": "OceanWP",
+                "authorURI": "https:\/\/oceanwp.org\/",
+                "description": "Add extra features like widgets, metaboxes, import\/export and a panel to activate the premium extensions.",
+                "title": "Ocean Extra",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "ocean-footer-callout\/ocean-footer-callout.php": {
+                "slug": "ocean-footer-callout\/ocean-footer-callout.php",
+                "name": "Ocean Footer Callout",
+                "version": "1.1.0",
+                "pluginURI": "https:\/\/oceanwp.org\/extension\/ocean-footer-callout\/",
+                "author": "OceanWP",
+                "authorURI": "https:\/\/oceanwp.org\/",
+                "description": "Add some relevant\/important information about your company or product in your footer.",
+                "title": "Ocean Footer Callout",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "ocean-full-screen\/ocean-full-screen.php": {
+                "slug": "ocean-full-screen\/ocean-full-screen.php",
+                "name": "Ocean Full Screen",
+                "version": "1.0.7",
+                "pluginURI": "https:\/\/oceanwp.org\/extension\/ocean-full-screen\/",
+                "author": "OceanWP",
+                "authorURI": "https:\/\/oceanwp.org\/",
+                "description": "A simple and easy way to create a fullscreen scrolling website.",
+                "title": "Ocean Full Screen",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "ocean-hooks\/ocean-hooks.php": {
+                "slug": "ocean-hooks\/ocean-hooks.php",
+                "name": "Ocean Hooks",
+                "version": "1.1.3",
+                "pluginURI": "https:\/\/oceanwp.org\/extension\/ocean-hooks\/",
+                "author": "OceanWP",
+                "authorURI": "https:\/\/oceanwp.org\/",
+                "description": "Add your custom content throughout various areas of OceanWP without using child theme.",
+                "title": "Ocean Hooks",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "ocean-instagram\/ocean-instagram.php": {
+                "slug": "ocean-instagram\/ocean-instagram.php",
+                "name": "Ocean Instagram",
+                "version": "1.0.5",
+                "pluginURI": "https:\/\/oceanwp.org\/extension\/ocean-instagram\/",
+                "author": "OceanWP",
+                "authorURI": "https:\/\/oceanwp.org\/",
+                "description": "Display Instagram feed in a beautiful way.",
+                "title": "Ocean Instagram",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "ocean-popup-login\/ocean-popup-login.php": {
+                "slug": "ocean-popup-login\/ocean-popup-login.php",
+                "name": "Ocean Popup Login",
+                "version": "1.2.0",
+                "pluginURI": "https:\/\/oceanwp.org\/extension\/ocean-popup-login\/",
+                "author": "OceanWP",
+                "authorURI": "https:\/\/oceanwp.org\/",
+                "description": "A plugin to add a popup login, register and lost password form where you want.",
+                "title": "Ocean Popup Login",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "ocean-portfolio\/ocean-portfolio.php": {
+                "slug": "ocean-portfolio\/ocean-portfolio.php",
+                "name": "Ocean Portfolio",
+                "version": "1.2.0",
+                "pluginURI": "https:\/\/oceanwp.org\/extension\/ocean-portfolio\/",
+                "author": "OceanWP",
+                "authorURI": "https:\/\/oceanwp.org\/",
+                "description": "A complete extension to display your portfolio and work in a beautiful way.",
+                "title": "Ocean Portfolio",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "ocean-pro-demos\/ocean-pro-demos.php": {
+                "slug": "ocean-pro-demos\/ocean-pro-demos.php",
+                "name": "Ocean Pro Demos",
+                "version": "1.1.0",
+                "pluginURI": "",
+                "author": "OceanWP",
+                "authorURI": "https:\/\/oceanwp.org\/",
+                "description": "Import the OceanWP pro demos, widgets and customizer settings with one click.",
+                "title": "Ocean Pro Demos",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "ocean-side-panel\/ocean-side-panel.php": {
+                "slug": "ocean-side-panel\/ocean-side-panel.php",
+                "name": "Ocean Side Panel",
+                "version": "1.0.12",
+                "pluginURI": "https:\/\/oceanwp.org\/extension\/ocean-side-panel\/",
+                "author": "OceanWP",
+                "authorURI": "https:\/\/oceanwp.org\/",
+                "description": "Add a responsive side panel with your preferred widgets inside.",
+                "title": "Ocean Side Panel",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "ocean-sticky-footer\/ocean-sticky-footer.php": {
+                "slug": "ocean-sticky-footer\/ocean-sticky-footer.php",
+                "name": "Ocean Sticky Footer",
+                "version": "1.1.0",
+                "pluginURI": "https:\/\/oceanwp.org\/extension\/ocean-sticky-footer\/",
+                "author": "OceanWP",
+                "authorURI": "https:\/\/oceanwp.org\/",
+                "description": "A simple extension to attach the footer at the bottom of your screen.",
+                "title": "Ocean Sticky Footer",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "ocean-sticky-header\/ocean-sticky-header.php": {
+                "slug": "ocean-sticky-header\/ocean-sticky-header.php",
+                "name": "Ocean Sticky Header",
+                "version": "1.2.0",
+                "pluginURI": "https:\/\/oceanwp.org\/extension\/ocean-sticky-header\/",
+                "author": "OceanWP",
+                "authorURI": "https:\/\/oceanwp.org\/",
+                "description": "A simple extension to attach the header at the top of your screen with an animation.",
+                "title": "Ocean Sticky Header",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "ocean-white-label\/ocean-white-label.php": {
+                "slug": "ocean-white-label\/ocean-white-label.php",
+                "name": "Ocean White Label",
+                "version": "1.0.6",
+                "pluginURI": "https:\/\/oceanwp.org\/extension\/ocean-white-label\/",
+                "author": "OceanWP",
+                "authorURI": "https:\/\/oceanwp.org\/",
+                "description": "A plugin which add a new box in Theme Panel to allow you to replace the OceanWP name by your own branding name.",
+                "title": "Ocean White Label",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "ocean-woo-popup\/ocean-woo-popup.php": {
+                "slug": "ocean-woo-popup\/ocean-woo-popup.php",
+                "name": "Ocean Woo Popup",
+                "version": "1.0.7",
+                "pluginURI": "https:\/\/oceanwp.org\/extension\/ocean-woo-popup\/",
+                "author": "OceanWP",
+                "authorURI": "https:\/\/oceanwp.org\/",
+                "description": "A simple extension to display a popup when you click on the Add To Cart button of your products.",
+                "title": "Ocean Woo Popup",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "project-panorama-lite\/project-panorama.php": {
+                "slug": "project-panorama-lite\/project-panorama.php",
+                "name": "Panorama - WordPress Project Management Plugin",
+                "version": "1.3.13",
+                "pluginURI": "https:\/\/www.projectpanorama.com",
+                "author": "37 MEDIA",
+                "authorURI": "https:\/\/www.projectpanorama.com",
+                "description": "WordPress Project Management and Client Dashboard Plugin",
+                "title": "Panorama - WordPress Project Management Plugin",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "show-hidecollapse-expand\/bg_show_hide.php": {
+                "slug": "show-hidecollapse-expand\/bg_show_hide.php",
+                "name": "Show-Hide\/Collapse-Expand",
+                "version": "1.2.4",
+                "pluginURI": "http:\/\/showhide.bunte-giraffe.de",
+                "author": "Bunte Giraffe",
+                "authorURI": "http:\/\/bunte-giraffe.de",
+                "description": "Save space on your pages, posts, sidebars. Hide the content before user clicks to see it. Collapse long lists, create FAQs & more.",
+                "title": "Show-Hide\/Collapse-Expand",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "ultimate-elementor\/ultimate-elementor.php": {
+                "slug": "ultimate-elementor\/ultimate-elementor.php",
+                "name": "Ultimate Addons for Elementor",
+                "version": "1.27.2",
+                "pluginURI": "https:\/\/ultimateelementor.com\/",
+                "author": "Brainstorm Force",
+                "authorURI": "https:\/\/www.brainstormforce.com",
+                "description": "Ultimate Addons is a premium extension for Elementor that adds 40+ widgets and works on top of any Elementor Package (Free, Pro). You can use it with any WordPress theme.",
+                "title": "Ultimate Addons for Elementor",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "w3-total-cache\/w3-total-cache.php": {
+                "slug": "w3-total-cache\/w3-total-cache.php",
+                "name": "W3 Total Cache",
+                "version": "0.14.4",
+                "pluginURI": "https:\/\/www.boldgrid.com\/totalcache\/",
+                "author": "BoldGrid",
+                "authorURI": "https:\/\/www.boldgrid.com\/",
+                "description": "The highest rated and most complete WordPress performance plugin. Dramatically improve the speed and user experience of your site. Add browser, page, object and database caching as well as minify and content delivery network (CDN) to WordPress.",
+                "title": "W3 Total Cache",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wordpress-popular-posts\/wordpress-popular-posts.php": {
+                "slug": "wordpress-popular-posts\/wordpress-popular-posts.php",
+                "name": "WordPress Popular Posts",
+                "version": "5.2.3",
+                "pluginURI": "https:\/\/wordpress.org\/plugins\/wordpress-popular-posts\/",
+                "author": "Hector Cabrera",
+                "authorURI": "https:\/\/cabrerahector.com\/",
+                "description": "A highly customizable widget that displays the most popular posts on your blog.",
+                "title": "WordPress Popular Posts",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wpforms-lite\/wpforms.php": {
+                "slug": "wpforms-lite\/wpforms.php",
+                "name": "WPForms Lite",
+                "version": "1.6.2.2",
+                "pluginURI": "https:\/\/wpforms.com",
+                "author": "WPForms",
+                "authorURI": "https:\/\/wpforms.com",
+                "description": "Beginner friendly WordPress contact form plugin. Use our Drag & Drop form builder to create your WordPress forms.",
+                "title": "WPForms Lite",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wp-mail-smtp\/wp_mail_smtp.php": {
+                "slug": "wp-mail-smtp\/wp_mail_smtp.php",
+                "name": "WP Mail SMTP",
+                "version": "2.3.1",
+                "pluginURI": "https:\/\/wpmailsmtp.com\/",
+                "author": "WPForms",
+                "authorURI": "https:\/\/wpforms.com\/",
+                "description": "Reconfigures the <code>wp_mail()<\/code> function to use Gmail\/Mailgun\/SendGrid\/SMTP instead of the default <code>mail()<\/code> and creates an options page to manage the settings.",
+                "title": "WP Mail SMTP",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wedevs-project-manager\/cpm.php": {
+                "slug": "wedevs-project-manager\/cpm.php",
+                "name": "WP Project Manager",
+                "version": "2.4.2",
+                "pluginURI": "https:\/\/wedevs.com\/wp-project-manager-pro\/",
+                "author": "weDevs",
+                "authorURI": "https:\/\/wedevs.com",
+                "description": "WordPress Project Management plugin. Manage your projects and tasks, get things done.",
+                "title": "WP Project Manager",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wppusher\/wppusher.php": {
+                "slug": "wppusher\/wppusher.php",
+                "name": "WP Pusher",
+                "version": "3.0.7",
+                "pluginURI": "http:\/\/wppusher.com",
+                "author": "WP Pusher",
+                "authorURI": "http:\/\/wppusher.com",
+                "description": "Pain-free deployment of WordPress themes and plugins directly from GitHub.",
+                "title": "WP Pusher",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wordpress-seo\/wp-seo.php": {
+                "slug": "wordpress-seo\/wp-seo.php",
+                "name": "Yoast SEO",
+                "version": "14.8.1",
+                "pluginURI": "https:\/\/yoa.st\/1uj",
+                "author": "Team Yoast",
+                "authorURI": "https:\/\/yoa.st\/1uk",
+                "description": "The first true all-in-one SEO solution for WordPress, including on-page content analysis, XML sitemaps and much more.",
+                "title": "Yoast SEO",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "advanced-cache.php": {
+                "slug": "advanced-cache.php",
+                "name": "advanced-cache.php",
+                "version": "",
+                "pluginURI": "",
+                "author": "",
+                "authorURI": "",
+                "description": "",
+                "title": "",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": true
+            },
+            "db.php": {
+                "slug": "db.php",
+                "name": "db.php",
+                "version": "",
+                "pluginURI": "",
+                "author": "",
+                "authorURI": "",
+                "description": "",
+                "title": "",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": true
+            },
+            "object-cache.php": {
+                "slug": "object-cache.php",
+                "name": "object-cache.php",
+                "version": "",
+                "pluginURI": "",
+                "author": "",
+                "authorURI": "",
+                "description": "",
+                "title": "",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": true
+            }
+        },
+        "themes": {
+            "hello-elementor": {
+                "slug": "hello-elementor",
+                "themeName": "Hello Elementor",
+                "version": "2.3.1",
+                "themeURI": "https:\/\/elementor.com\/hello-theme\/?utm_source=wp-themes&utm_campaign=theme-uri&utm_medium=wp-dash",
+                "parentTheme": false,
+                "template": "hello-elementor",
+                "stylesheet": "hello-elementor",
+                "description": "A plain-vanilla &amp; lightweight theme for Elementor page builder",
+                "author": "Elementor Team",
+                "authorURI": "https:\/\/elementor.com\/?utm_source=wp-themes&utm_campaign=author-uri&utm_medium=wp-dash",
+                "tags": [
+                    "flexible-header",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "featured-images",
+                    "rtl-language-support",
+                    "threaded-comments",
+                    "translation-ready"
+                ],
+                "isAllowed": true,
+                "isActive": true,
+                "defaultTheme": false
+            },
+            "highlight": {
+                "slug": "highlight",
+                "themeName": "Highlight",
+                "version": "1.0.15",
+                "themeURI": "https:\/\/extendthemes.com\/highlight",
+                "parentTheme": "mesmerize",
+                "template": "mesmerize",
+                "stylesheet": "highlight",
+                "description": "Highlight is an incredibly flexible, multipurpose WordPress theme that can help you create an amazing website easier than ever, by drag and drop. It comes with a predesigned home page, 5 header designs and over 30 ready to use content sections that you can easily customize. It also has lots of customization options (video background, slideshow background, header content types, gradient overlays, etc) that will help you create a beautiful, unique website in no time. Highlight is responsive so it works on mobile devices out of the box and it is also WooCommerce ready.",
+                "author": "ExtendThemes",
+                "authorURI": "https:\/\/extendthemes.com\/",
+                "tags": [
+                    "entertainment",
+                    "food-and-drink",
+                    "portfolio",
+                    "one-column",
+                    "two-columns",
+                    "right-sidebar",
+                    "grid-layout",
+                    "custom-header",
+                    "custom-menu",
+                    "custom-logo",
+                    "full-width-template",
+                    "theme-options",
+                    "translation-ready",
+                    "featured-images",
+                    "threaded-comments"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "kallyas": {
+                "slug": "kallyas",
+                "themeName": "Kallyas",
+                "version": "4.18.0",
+                "themeURI": "http:\/\/kallyas.net\/",
+                "parentTheme": false,
+                "template": "kallyas",
+                "stylesheet": "kallyas",
+                "description": "A Highly customizable theme with page builder and unlimited colors.",
+                "author": "Hogash",
+                "authorURI": "http:\/\/themeforest.net\/user\/hogash",
+                "tags": [
+                    "left-sidebar",
+                    "right-sidebar",
+                    "custom-background",
+                    "custom-colors",
+                    "custom-header",
+                    "custom-menu",
+                    "editor-style",
+                    "full-width-template",
+                    "theme-options",
+                    "translation-ready"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "mesmerize": {
+                "slug": "mesmerize",
+                "themeName": "Mesmerize",
+                "version": "1.6.97",
+                "themeURI": "https:\/\/extendthemes.com\/go\/mesmerize-home\/",
+                "parentTheme": false,
+                "template": "mesmerize",
+                "stylesheet": "mesmerize",
+                "description": "Mesmerize is an incredibly flexible, multipurpose WordPress theme that can help you create an amazing website easier than ever, by drag and drop. It comes with a predesigned home page, 5 header designs and over 30 ready to use content sections that you can easily customize. It also has lots of customization options (video background, slideshow background, header content types, gradient overlays, etc) that will help you create a beautiful, unique website in no time. Mesmerize is responsive so it works on mobile devices out of the box and it is also WooCommerce ready. DEMO: https:\/\/extendthemes.com\/go\/mesmerize-demos\/",
+                "author": "Horea Radu",
+                "authorURI": "https:\/\/extendthemes.com\/",
+                "tags": [
+                    "entertainment",
+                    "food-and-drink",
+                    "portfolio",
+                    "one-column",
+                    "two-columns",
+                    "right-sidebar",
+                    "grid-layout",
+                    "custom-header",
+                    "custom-menu",
+                    "custom-logo",
+                    "full-width-template",
+                    "theme-options",
+                    "translation-ready",
+                    "featured-images",
+                    "threaded-comments"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "oceanwp": {
+                "slug": "oceanwp",
+                "themeName": "OceanWP",
+                "version": "2.0.1",
+                "themeURI": "https:\/\/oceanwp.org\/",
+                "parentTheme": false,
+                "template": "oceanwp",
+                "stylesheet": "oceanwp",
+                "description": "OceanWP is the perfect theme for your project. Lightweight and highly extendable, it will enable you to create almost any type of website such a blog, portfolio, business website and WooCommerce storefront with a beautiful &amp; professional design. Very fast, responsive, RTL &amp; translation ready, best SEO practices, unique WooCommerce features to increase conversion and much more. You can even edit the settings on tablet &amp; mobile so your site looks good on every device. Work with the most popular page builders as Elementor, Beaver Builder, Brizy, Visual Composer, Divi, SiteOrigin, etc... Developers will love his extensible codebase making it a joy to customize and extend. Best friend of Elementor &amp; WooCommerce. Looking for a Multi-Purpose theme? Look no further! Check the demos to realize that it's the only theme you will ever need: https:\/\/oceanwp.org\/demos\/",
+                "author": "Nick",
+                "authorURI": "https:\/\/oceanwp.org\/about-me\/",
+                "tags": [
+                    "two-columns",
+                    "right-sidebar",
+                    "footer-widgets",
+                    "blog",
+                    "news",
+                    "custom-background",
+                    "custom-menu",
+                    "post-formats",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "editor-style",
+                    "threaded-comments",
+                    "translation-ready",
+                    "buddypress",
+                    "custom-colors",
+                    "featured-images",
+                    "full-width-template",
+                    "theme-options",
+                    "e-commerce",
+                    "block-styles",
+                    "wide-blocks",
+                    "accessibility-ready"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "twentynineteen": {
+                "slug": "twentynineteen",
+                "themeName": "Twenty Nineteen",
+                "version": "1.4",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentynineteen\/",
+                "parentTheme": false,
+                "template": "twentynineteen",
+                "stylesheet": "twentynineteen",
+                "description": "Our 2019 default theme is designed to show off the power of the block editor. It features custom styles for all the default blocks, and is built so that what you see in the editor looks like what you'll see on your website. Twenty Nineteen is designed to be adaptable to a wide range of websites, whether you\u2019re running a photo blog, launching a new business, or supporting a non-profit. Featuring ample whitespace and modern sans-serif headlines paired with classic serif body text, it's built to be beautiful on all screen sizes.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org\/",
+                "tags": [
+                    "one-column",
+                    "flexible-header",
+                    "accessibility-ready",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "footer-widgets",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "translation-ready"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "twentyseventeen": {
+                "slug": "twentyseventeen",
+                "themeName": "Twenty Seventeen",
+                "version": "2.2",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentyseventeen\/",
+                "parentTheme": false,
+                "template": "twentyseventeen",
+                "stylesheet": "twentyseventeen",
+                "description": "Twenty Seventeen brings your site to life with header video and immersive featured images. With a focus on business sites, it features multiple sections on the front page as well as widgets, navigation and social menus, a logo, and more. Personalize its asymmetrical grid with a custom color scheme and showcase your multimedia content with post formats. Our default theme for 2017 works great in many languages, for any abilities, and on any device.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org\/",
+                "tags": [
+                    "one-column",
+                    "two-columns",
+                    "right-sidebar",
+                    "flexible-header",
+                    "accessibility-ready",
+                    "custom-colors",
+                    "custom-header",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "footer-widgets",
+                    "post-formats",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "theme-options",
+                    "threaded-comments",
+                    "translation-ready"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "twentysixteen": {
+                "slug": "twentysixteen",
+                "themeName": "Twenty Sixteen",
+                "version": "2.0",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentysixteen\/",
+                "parentTheme": false,
+                "template": "twentysixteen",
+                "stylesheet": "twentysixteen",
+                "description": "Twenty Sixteen is a modernized take on an ever-popular WordPress layout \u2014 the horizontal masthead with an optional right sidebar that works perfectly for blogs and websites. It has custom color options with beautiful default color schemes, a harmonious fluid grid using a mobile-first approach, and impeccable polish in every detail. Twenty Sixteen will make your WordPress look beautiful everywhere.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org\/",
+                "tags": [
+                    "one-column",
+                    "two-columns",
+                    "right-sidebar",
+                    "accessibility-ready",
+                    "custom-background",
+                    "custom-colors",
+                    "custom-header",
+                    "custom-menu",
+                    "editor-style",
+                    "featured-images",
+                    "flexible-header",
+                    "microformats",
+                    "post-formats",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "translation-ready",
+                    "blog"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "twentytwenty": {
+                "slug": "twentytwenty",
+                "themeName": "Twenty Twenty",
+                "version": "1.1",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwenty\/",
+                "parentTheme": false,
+                "template": "twentytwenty",
+                "stylesheet": "twentytwenty",
+                "description": "Our default theme for 2020 is designed to take full advantage of the flexibility of the block editor. Organizations and businesses have the ability to create dynamic landing pages with endless layouts using the group and column blocks. The centered content column and fine-tuned typography also makes it perfect for traditional blogs. Complete editor styles give you a good idea of what your content will look like, even before you publish. You can give your site a personal touch by changing the background colors and the accent color in the Customizer. The colors of all elements on your site are automatically calculated based on the colors you pick, ensuring a high, accessible color contrast for your visitors.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org\/",
+                "tags": [
+                    "blog",
+                    "one-column",
+                    "custom-background",
+                    "custom-colors",
+                    "custom-logo",
+                    "custom-menu",
+                    "editor-style",
+                    "featured-images",
+                    "footer-widgets",
+                    "full-width-template",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "theme-options",
+                    "threaded-comments",
+                    "translation-ready",
+                    "block-styles",
+                    "wide-blocks",
+                    "accessibility-ready"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": true
+            }
+        }
+    },
+    "installer_base_name": "installer.php",
+    "installer_backup_name": "20210221_vietnamyouthalliance_543733321af9b2889008_20210221173536_installer-backup.php",
+    "package_name": "20210221_vietnamyouthalliance_543733321af9b2889008_20210221173536_archive.zip",
+    "package_hash": "5437333-21173536",
+    "package_notes": "",
+    "mu_siteadmins": [
+        "admin"
+    ],
+    "overwriteInstallerParams": {
+        "cpnl-dbaction": {
+            "value": "create"
+        }
+    }
+}
